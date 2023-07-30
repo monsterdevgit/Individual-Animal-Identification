@@ -1,8 +1,8 @@
 ## **A study on Individual Animal identification from video**  
-The varied physical characteristics of animals present distinct obsatcles for traditional visual systems. 
-This study offers an examination of the performance of various classifiers in the identification of individual animals through the analysis of their collective characteristics.  
-The study aims to contribute to the study of Animal classifiction by evaluating and comparing the effectiveness of various classifiers: 
-1. Largest Prior classifier
+The varied physical characteristics of animals present distinct obstacles for traditional visual systems. 
+This study offers an examination of the performance of various ML classifiers in the identification of individual animals through the analysis of their collective characteristics.  
+The review aims to contribute to the study of Individual Animal classification by evaluating and comparing the effectiveness of various ML classifiers: 
+1. Largest Prior 
 2. Linear Discriminant Analysis
 3. K-Nearest Neighbour
 4. Decision Tree
@@ -18,7 +18,7 @@ The dataset consists of label and features data. With four feature representatio
 * HOG features (shape)
 * LBP features (texture)
 
-Each feature and label data are encoded in an excel csv file. The columns name of the label dataset represents individual animals (class labels), encoded to numerical values. These datasets were gotten from original videos and code included in this repository [here](https://github.com/LucyKuncheva/Animal-Identification-from-Video) which were sourced from Pixabay under Pixabay License. Special thanks to Lucy Kuncheva.  
+Each feature and label data are encoded in an excel csv file. The columns name of the label dataset represents individual animals (class labels), and their corresponding numerical values. These datasets were gotten from original videos and code included in this repository [here](https://github.com/LucyKuncheva/Animal-Identification-from-Video) which were sourced from Pixabay under Pixabay License. Special thanks to Lucy Kuncheva.  
 
 The video data used in this study is summarized below:
 | Short Name | Video Name | Frames | Size | Bounding boxes | Identities |
