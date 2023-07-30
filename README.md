@@ -1,4 +1,3 @@
-# expert-succotash
 A study on Individual Animal identification from video.  
 The varied physical characteristics of animals present distinct obstcles for traditional visual systems. 
 The present study offers an examination of the performance of various classifiers in the identification of individual animals through the analysis of their distinctive characteristics.  
