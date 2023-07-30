@@ -1,4 +1,4 @@
-## **A study on Individual Animal identification from video**  
+## **Identification of Individual Animals from video**  
 The varied physical characteristics of animals present distinct obstacles for traditional visual systems. 
 This study offers an examination of the performance of various ML classifiers in the identification of individual animals through the analysis of their collective characteristics.  
 The review aims to contribute to the study of Individual Animal classification by evaluating and comparing the effectiveness of various ML classifiers: 
